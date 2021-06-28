@@ -6,7 +6,7 @@ this project is a practice prioject for lab 02 of 401 course at asac
 
 - ### description
 
-a Dynamic API server to practice standards compliant Express server
+Dynamic API server to practice standards compliant Express server
 
 ---
 
@@ -18,17 +18,17 @@ a Dynamic API server to practice standards compliant Express server
 
 ---
 
-- ### [PR]()
+- ### [PR](https://github.com/hibasalem/basic-express-server/pull/1)
 
 ---
 
 - ### deploy links
 
-  - [dev branch deployment]()
+  - [dev branch deployment](https://basic-express-serverdev.herokuapp.com)
 
-  - [main deployment]()
+  - [main deployment](https://basic-express-serverdmain.herokuapp.com)
 
-  - [tests report]()
+  - [tests report](https://github.com/hibasalem/basic-express-server/actions)
 
 ---
 
